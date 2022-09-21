@@ -1,5 +1,5 @@
-access_key = "AKIAQSW6JPR4WGSAFC3C"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region     = "ap-south-1"
 environment = "prod"
 
